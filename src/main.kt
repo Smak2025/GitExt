@@ -1,5 +1,5 @@
 fun fun4(){
-    println("5")
+    println("-5-")
 }
 fun fun5(){
     println("6")
