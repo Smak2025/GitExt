@@ -7,4 +7,5 @@ fun fun1(){
 fun main() {
     println("1")
     fun1()
+    fun2()
 }
