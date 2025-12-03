@@ -1,6 +1,9 @@
 fun fun7(){
     println("8")
 }
+fun fun6(){
+    println("7")
+}
 fun fun4(){
     println("-5-")
 }
@@ -23,4 +26,6 @@ fun main() {
     fun3()
     fun4()
     fun5()
+    fun6()
+    fun7()
 }
